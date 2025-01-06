@@ -21,7 +21,7 @@ To use the application, simply visit the link [Work Day Scheduler][scheduler-lin
 
 This daily planner application allows users to create and manage their daily schedules effectively. The application provides a user-friendly interface with features such as displaying the current day, time blocks for standard business hours, color-coded blocks for past, present, and future events, event entry, and local storage for saving and persisting events.
 
-![Scheduler](https://github.com/naturuplift/work-day-scheduler/assets/23546356/7ae0b283-a38b-48a2-b43a-88d169346b89)
+![Scheduler](https://github.com/solutions-for-realvalue/WorkDayScheduler/blob/main/assets/img/Scheduler.png)
 
 
 ## Table of Contents
