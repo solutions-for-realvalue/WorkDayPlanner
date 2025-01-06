@@ -54,7 +54,6 @@ License
 
 This project is licensed under the MIT License. See the [LICENSE][MIT] file for details.
 
-[code-quiz-app]: <https://naturuplift.github.io/code-quiz/>
-[scheduler-link]: <https://naturuplift.github.io/WorkDayScheduler/>
-[state-flow]: <https://github.com/naturuplift/work-day-scheduler/blob/main/assets/img/Work%20Day%20Scheduler%20State%20Diagram%20v1.png>
-[MIT]: <https://github.com/naturuplift/work-day-scheduler/blob/main/LICENSE>
+[scheduler-link]: <https://solutions-for-realvalue.github.io/WorkDayScheduler/>
+[state-flow]: <https://github.com/solutions-for-realvalue/WorkDayScheduler/blob/main/assets/img/Work%20Day%20Scheduler%20State%20Diagram%20v1.png>
+[MIT]: <https://github.com/solutions-for-realvalue/WorkDayScheduler/blob/main/README.md>
