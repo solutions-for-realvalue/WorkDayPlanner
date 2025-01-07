@@ -54,6 +54,6 @@ License
 
 This project is licensed under the MIT License. See the [LICENSE][MIT] file for details.
 
-[scheduler-link]: <https://solutions-for-realvalue.github.io/WorkDayScheduler/>
+[scheduler-link]: <https://solutions-for-realvalue.github.io/WorkDayPlanner/>
 [state-flow]: <https://github.com/solutions-for-realvalue/WorkDayScheduler/blob/main/assets/img/Work%20Day%20Scheduler%20State%20Diagram%20v1.png>
 [MIT]: <https://github.com/solutions-for-realvalue/WorkDayScheduler/blob/main/README.md>
