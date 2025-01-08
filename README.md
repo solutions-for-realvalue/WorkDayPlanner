@@ -27,7 +27,7 @@
 - [Contributing](#-contributing)
 - [License](#-license)
 - [About](#-about)
-- [Connect & Collaborate](#connect--collaborate)
+- [Connect & Collaborate](#connect-&-collaborate)
 
 ---
 
