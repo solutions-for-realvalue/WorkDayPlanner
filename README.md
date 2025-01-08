@@ -19,8 +19,11 @@
 
 - [Overview](#-overview)
 - [Features](#-features)
-- [Tech Stack](#-tech-stack)
-- [Screenshots](#-camera-screenshots)
+- [Tech Stack](#tech-stack)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Getting Started](#-getting-started)
+- [Screenshots](#screenshots)
 - [Contributing](#-contributing)
 - [License](#-license)
 - [About](#-about)
