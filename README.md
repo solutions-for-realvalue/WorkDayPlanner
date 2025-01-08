@@ -21,6 +21,20 @@
 
 ---
 
+## Table of Contents
+
+- [Overview](#-overview)
+- [Features](#-features)
+- [Tech Stack](#%EF%B8%8F-tech-stack)
+- [Installation](#-installation)
+- [Usage](#-usage)
+- [Screenshots](#%EF%B8%8F-screenshots)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [About](#-about)
+
+---
+
 ## 🚀 Features
 
 - **Dynamic Time Blocks**: Time blocks are color-coded to reflect the current time status (past, present, future).
@@ -67,6 +81,12 @@
    - **Green**: Future events.
 4. Click a block to enter an event.
 5. Save the event using the provided save button. Your data will persist even if you refresh the page.
+
+---
+
+## Getting Started
+
+To use the application, simply visit the link [Work Day Scheduler][scheduler-link].
 
 ---
 
