@@ -23,10 +23,10 @@
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Getting Started](#%F0%9F%8F%81-getting-started)
-- [Screenshots](#%F0%9F%96%BC%EF%B8%8F-screenshots)
-- [Contributing](#%F0%9F%A4%9D-contributing)
-- [License](#%F0%9F%93%9C-license)
-- [About](#%F0%9F%92%A1-about)
+- [Screenshots](#-screenshots)
+- [Contributing](#-contributing)
+- [License](#-license)
+- [About](#-about)
 - [Connect & Collaborate](#-connect--collaborate)
 
 ---
