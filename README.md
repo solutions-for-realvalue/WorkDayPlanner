@@ -15,23 +15,25 @@
 
 ---
 
-## 🌟 Overview
+## 📖 Table of Contents
 
-**Work Day Planner** is a simple yet powerful daily planner application that allows users to organize their schedules efficiently. Designed with user-friendly features, it helps track and manage tasks during standard business hours (9 AM to 5 PM) with color-coded indicators for past, present, and future time blocks.
+- [Overview](#%F0%9F%8C%9F-overview)
+- [Features](#%F0%9F%9A%80-features)
+- [Tech Stack](#%F0%9F%9B%A0%EF%B8%8F-tech-stack)
+- [Installation](#%F0%9F%93%A6-installation)
+- [Usage](#%F0%9F%8E%AF-usage)
+- [Getting Started](#getting-started)
+- [Screenshots](#%F0%9F%96%BC%EF%B8%8F-screenshots)
+- [Contributing](#%F0%9F%A4%9D-contributing)
+- [License](#%F0%9F%93%9C-license)
+- [About](#%F0%9F%92%A1-about)
+- [Connect & Collaborate](#%F0%9F%A4%9D-connect--collaborate)
 
 ---
 
-## Table of Contents
+## 🌟 Overview
 
-- [Overview](#-overview)
-- [Features](#-features)
-- [Tech Stack](#%EF%B8%8F-tech-stack)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Screenshots](#%EF%B8%8F-screenshots)
-- [Contributing](#-contributing)
-- [License](#-license)
-- [About](#-about)
+**Work Day Planner** is a simple yet powerful daily planner application that allows users to organize their schedules efficiently. Designed with user-friendly features, it helps track and manage tasks during standard business hours (9 AM to 5 PM) with color-coded indicators for past, present, and future time blocks.
 
 ---
 
@@ -84,7 +86,7 @@
 
 ---
 
-## Getting Started
+## 🏁 Getting Started
 
 To use the application, simply visit the link [Work Day Scheduler][scheduler-link].
 
@@ -145,7 +147,7 @@ The **Work Day Planner** is designed to help users optimize their daily routines
 
 ---
 
-### Connect & Collaborate
+### 🤝 Connect & Collaborate
 
 Have questions or suggestions? Feel free to open an issue or submit a pull request. Let’s make task management more efficient and accessible!
 
