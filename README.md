@@ -1,4 +1,4 @@
-# Work Day Scheduler
+# Work Day Planner
 
 <br/>
 <p align="center">
@@ -13,46 +13,121 @@
 </p>
 <br/>
 
-## Getting Started
+---
 
-To use the application, simply visit the link [Work Day Scheduler][scheduler-link].
+## 🌟 Overview
 
-## Description
+**Work Day Planner** is a simple yet powerful daily planner application that allows users to organize their schedules efficiently. Designed with user-friendly features, it helps track and manage tasks during standard business hours (9 AM to 5 PM) with color-coded indicators for past, present, and future time blocks.
 
-This daily planner application allows users to create and manage their daily schedules effectively. The application provides a user-friendly interface with features such as displaying the current day, time blocks for standard business hours, color-coded blocks for past, present, and future events, event entry, and local storage for saving and persisting events.
+---
 
-![Scheduler](https://github.com/solutions-for-realvalue/WorkDayScheduler/blob/main/assets/img/Scheduler.png)
+## 🚀 Features
 
+- **Dynamic Time Blocks**: Time blocks are color-coded to reflect the current time status (past, present, future).
+- **Event Storage**: Save your events directly in local storage to ensure persistence across page refreshes.
+- **Interactive Design**: Clickable and editable time slots for easy task entry and updates.
+- **Current Date Display**: Automatically displays the current date at the top of the application.
 
-## Table of Contents
+---
 
-- [Usage](#usage)
-- [State Flow Diagram](#state-flow-diagram)
-- [Contributing](#contributing)
-- [License](#license)
+## 🛠️ Tech Stack
 
-## Usage
+- **Programming Language**: JavaScript
+- **Frameworks & Libraries**: jQuery
+- **Web APIs**: Client-side APIs and DOM manipulation
+- **Version Control**: Git and GitHub
 
-    Open the index.html file in your preferred web browser.
-    The current day will be displayed at the top of the calendar.
-    Scroll down to view time blocks for standard business hours (9am to 5pm).
-    Each time block is color-coded to indicate whether it is in the past, present, or future.
-    Click into a time block to enter an event.
-    Click the save button for that time block to save the event in local storage.
-    Refresh the page, and the saved events should persist.
+---
 
-## State Flow Diagram
+## 📦 Installation
 
-For a visual representation of the sequence of actions involved in the Work Day Scheduler, refer to the [State Flow Diagram][state-flow] provided in the project documentation.
+1. Clone this repository:
 
-## Contributing
+    ```bash
+    git clone https://github.com/solutions-for-realvalue/WorkDayPlanner.git
+    ```
 
-Feel free to contribute to the project. Fork the repository and submit a pull request!
-License
+2. Navigate to the project directory:
 
-## License
+    ```bash
+    cd WorkDayPlanner
+    ```
 
-This project is licensed under the MIT License. See the [LICENSE][MIT] file for details.
+3. Open the application in your preferred web browser by launching the `index.html` file.
+
+---
+
+## 🎯 Usage
+
+1. Open the `index.html` file in your browser.
+2. View time blocks for standard business hours (9 AM to 5 PM).
+3. Each block is color-coded:
+   - **Gray**: Past events.
+   - **Red**: Current hour.
+   - **Green**: Future events.
+4. Click a block to enter an event.
+5. Save the event using the provided save button. Your data will persist even if you refresh the page.
+
+---
+
+## 🖼️ Screenshots
+
+### Scheduler Interface
+
+![Scheduler](https://github.com/solutions-for-realvalue/WorkDayPlanner/blob/main/assets/img/Scheduler.png)
+
+### State Flow Diagram
+
+For a detailed visual representation of the application’s flow, check the state flow diagram:
+
+![State Flow Diagram](https://github.com/solutions-for-realvalue/WorkDayPlanner/blob/main/assets/img/Work%20Day%20Scheduler%20State%20Diagram%20v1.png)
+
+---
+
+## 🤝 Contributing
+
+We welcome contributions! Here’s how you can help:
+
+1. Fork the repository.
+2. Create a new branch:
+
+    ```bash
+    git checkout -b feature-name
+    ```
+
+3. Make your changes and commit them:
+
+    ```bash
+    git commit -m "Add feature-name"
+    ```
+
+4. Push to your branch:
+
+    ```bash
+    git push origin feature-name
+    ```
+
+5. Open a pull request.
+
+For major changes, please open an issue first to discuss your ideas.
+
+---
+
+## 📜 License
+
+This project is licensed under the [MIT License](https://opensource.org/license/mit/). See the LICENSE file for details.
+
+---
+
+## 💡 About
+
+The **Work Day Planner** is designed to help users optimize their daily routines and stay productive. Easily organize tasks, track progress, and never miss an important event!
+
+---
+
+### Connect & Collaborate
+
+Have questions or suggestions? Feel free to open an issue or submit a pull request. Let’s make task management more efficient and accessible!
 
 [scheduler-link]: <https://solutions-for-realvalue.github.io/WorkDayPlanner/>
 [state-flow]: <https://github.com/solutions-for-realvalue/WorkDayScheduler/blob/main/assets/img/Work%20Day%20Scheduler%20State%20Diagram%20v1.png>
