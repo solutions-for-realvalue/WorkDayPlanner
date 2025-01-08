@@ -19,7 +19,7 @@
 
 - [Overview](#-overview)
 - [Features](#-features)
-- [Tech Stack](#tech-stack)
+- [Tech Stack](#-tech-stack)
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Getting Started](#-getting-started)
@@ -46,7 +46,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## 🔨 Tech Stack
 
 - **Programming Language**: JavaScript
 - **Frameworks & Libraries**: jQuery
