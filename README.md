@@ -19,7 +19,7 @@
 
 - [Overview](#-overview)
 - [Features](#-features)
-- [Tech Stack](#tech-stack)
+- [Tech Stack](#tech-stack-1)
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Getting Started](#getting-started)
