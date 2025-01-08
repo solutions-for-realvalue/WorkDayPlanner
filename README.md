@@ -26,7 +26,7 @@
 - [Screenshots](#%F0%9F%96%BC%EF%B8%8F-screenshots)
 - [Contributing](#%F0%9F%A4%9D-contributing)
 - [License](#%F0%9F%93%9C-license)
-- [About](#%F0%9F%92%A1-about)
+- [About](#-about)
 - [Connect & Collaborate](#%F0%9F%A4%9D-connect--collaborate)
 
 ---
