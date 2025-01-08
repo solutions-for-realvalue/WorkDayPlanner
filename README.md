@@ -23,7 +23,7 @@
 - [Installation](#-installation)
 - [Usage](#-usage)
 - [Getting Started](#-getting-started)
-- [Screenshots](#screenshots)
+- [Screenshots](#-screenshots)
 - [Contributing](#-contributing)
 - [License](#-license)
 - [About](#-about)
