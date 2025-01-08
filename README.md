@@ -20,10 +20,7 @@
 - [Overview](#-overview)
 - [Features](#-features)
 - [Tech Stack](#-tech-stack)
-- [Installation](#-installation)
-- [Usage](#-usage)
-- [Getting Started](#-getting-started)
-- [Screenshots](#-screenshots)
+- [Screenshots](#-camera-screenshots)
 - [Contributing](#-contributing)
 - [License](#-license)
 - [About](#-about)
@@ -92,7 +89,7 @@ To use the application, simply visit the link [Work Day Scheduler][scheduler-lin
 
 ---
 
-## 🖼️ Screenshots
+## 📸 Screenshots
 
 ### Scheduler Interface
 
