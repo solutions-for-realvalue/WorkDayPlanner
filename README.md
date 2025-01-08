@@ -17,17 +17,17 @@
 
 ## 📖 Table of Contents
 
-- [Overview](#%F0%9F%8C%9F-overview)
-- [Features](#%F0%9F%9A%80-features)
-- [Tech Stack](#%F0%9F%9B%A0%EF%B8%8F-tech-stack)
-- [Installation](#%F0%9F%93%A6-installation)
-- [Usage](#%F0%9F%8E%AF-usage)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Tech Stack](#-tech-stack)
+- [Installation](#-installation)
+- [Usage](#-usage)
 - [Getting Started](#getting-started)
-- [Screenshots](#%F0%9F%96%BC%EF%B8%8F-screenshots)
-- [Contributing](#%F0%9F%A4%9D-contributing)
-- [License](#%F0%9F%93%9C-license)
+- [Screenshots](#-screenshots)
+- [Contributing](#-contributing)
+- [License](#-license)
 - [About](#-about)
-- [Connect & Collaborate](#%F0%9F%A4%9D-connect--collaborate)
+- [Connect & Collaborate](#connect--collaborate)
 
 ---
 
